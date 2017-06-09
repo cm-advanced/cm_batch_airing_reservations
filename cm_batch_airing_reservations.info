@@ -1,0 +1,9 @@
+dependencies[] = "views"
+description = "A module providing interfaces and scripts for batch reservationstied to airings"
+name = "CMA Batch Airing Reservations"
+package = "Community Media Advanced"
+
+version = "7.x-1.x"
+core = "7.x"
+project = "cm_batch_airing_reservations"
+project_status_url = https://github.com/cm-advanced/cm_batch_airing_reservations
