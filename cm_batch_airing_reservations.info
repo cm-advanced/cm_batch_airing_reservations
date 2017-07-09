@@ -3,7 +3,7 @@ description = "A module providing interfaces and scripts for batch reservationst
 name = "CMA Batch Airing Reservations"
 package = "Community Media Advanced"
 
-version = "7.x-1.1"
+version = "7.x-1.2"
 core = "7.x"
 project = "cm_batch_airing_reservations"
 project_status_url = https://github.com/cm-advanced/cm_batch_airing_reservations
